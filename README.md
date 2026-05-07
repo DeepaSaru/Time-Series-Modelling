@@ -17,7 +17,7 @@ The selected dataset for this project focuses on:
 
 The project applies statistical time series forecasting methods to identify historical patterns, seasonality, long-term trends, and future projections using real-world government demographic data.
 
----
+
 
 ## Problem Statement
 
@@ -32,7 +32,7 @@ The task involves:
 * Evaluating model performance
 * Forecasting future demographic outcomes
 
----
+
 
 ## Technologies & Tools Used
 
@@ -49,7 +49,7 @@ Libraries Used:
 * `tseries`
 * `dplyr`
 
----
+
 
 ## Project Workflow
 
@@ -85,7 +85,7 @@ Evaluated model performance using:
 
 Generated future forecasts for birth statistics in England & Wales.
 
----
+
 
 ## Key Insights
 
@@ -94,7 +94,7 @@ Generated future forecasts for birth statistics in England & Wales.
 * Built predictive models capable of forecasting future population-related indicators
 * Demonstrated the importance of statistical forecasting in public sector planning and decision-making
 
----
+
 
 ## Skills Demonstrated
 
@@ -106,7 +106,7 @@ Generated future forecasts for birth statistics in England & Wales.
 * Data Visualisation
 * Analytical Storytelling
 
----
+
 
 ## Repository Structure
 
@@ -117,7 +117,7 @@ Generated future forecasts for birth statistics in England & Wales.
 ├── README.md
 ```
 
----
+
 
 ## Future Improvements
 
